@@ -36,9 +36,9 @@ T_r3 = 25                                                                       
 # ADD TO REPORT:    small controller gain --> takes long to reach final temperature or may not reach
 #                   high controller gain means very low temperature differnce and you reach final temperature quickly and precise
 # BUT, high controller gain means in reality to oversize the system: whats the best trade off? find smallest controller gain to reach indoor temperatures  
-contr_g1 = 200                                                                  # set controller gain 1
-contr_g2 = 200                                                                  # set controller gain 2
-contr_g3 = 200                                                                  # set controller gain 3
+contr_g1 = 1e3                                                                  # set controller gain 1
+contr_g2 = 1e3                                                                  # set controller gain 2
+contr_g3 = 1e3                                                                  # set controller gain 3
 
 # Advection/Ventilation
 ACH = 1                                                                         # ventilation rate [volumes/hour] // different ventilation rates at course website
