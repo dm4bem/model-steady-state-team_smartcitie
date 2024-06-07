@@ -1,3 +1,7 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dm4bem/model-steady-state-team_smartcitie/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/dm4bem/model-steady-state-team_smartcitie/HEAD
+
 Repo for the group with the following members:
 
 Oran Murray
@@ -15,3 +19,5 @@ Step-response_final.py- this deals with the second part of the report regarding 
 !IMPORTANT!- because of the number of time steps in the step-response code, the simulation takes a long time to run in binder (much longer than in the desktop IDE)
 
 the dm4bem.py file required for the step response code is also included
+
+link to the binder: https://mybinder.org/v2/gh/dm4bem/model-steady-state-team_smartcitie/HEAD
