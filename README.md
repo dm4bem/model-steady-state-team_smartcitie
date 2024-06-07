@@ -1,1 +1,14 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/A5DUrLb2)
+Repo for the group with the following members:
+
+Oran Murray
+Hannes Kurzmann
+Heiani Rey
+Clément Adélaïde
+Tshephang Komana
+Zazie Aguilar
+
+The repo contains two files of code which we have developped:
+-Steady-State_final.py- this deals with the first part of the report regarding the simulation of the room under steady-state conditions with no capacities
+-Step-response_final.py- this deals with the second part of the report regarding the step response of the room for a variation in outdoor temperature step
+
+the dm4bem.py file required for the step response code is also included
