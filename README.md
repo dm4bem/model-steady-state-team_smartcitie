@@ -4,12 +4,12 @@
 
 Repo for the group with the following members:
 
-Oran Murray
-Hannes Kurzmann
-Heiani Rey
-Clément Adélaïde
-Tshephang Komana
-Zazie Aguilar
+Oran Murray;
+Hannes Kurzmann;
+Heiani Rey;
+Clément Adélaïde;
+Tshephang Komana;
+Zazie Aguilar;
 
 The repo contains two files of code which we have developped:
 
